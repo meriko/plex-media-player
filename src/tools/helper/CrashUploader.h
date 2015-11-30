@@ -11,7 +11,7 @@
 #include <qnetworkreply.h>
 #include <qfilesystemwatcher.h>
 #include <qtimer.h>
-#include "Version.h"
+#include "PMPVersion.h"
 
 class CrashUploader : public QObject
 {

@@ -13,7 +13,7 @@
 #include "Paths.h"
 #include "player/PlayerComponent.h"
 #include "breakpad/CrashDumps.h"
-#include "Version.h"
+#include "PMPVersion.h"
 #include "settings/SettingsComponent.h"
 #include "settings/SettingsSection.h"
 #include "ui/KonvergoWindow.h"

@@ -12,7 +12,7 @@
 
 #include "LocalJsonClient.h"
 #include "tools/helper/HelperSocket.h"
-#include "Version.h"
+#include "PMPVersion.h"
 #include "utils/Utils.h"
 
 #ifdef Q_OS_MAC

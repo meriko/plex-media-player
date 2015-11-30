@@ -7,7 +7,7 @@
 
 #include "BreakPad.h"
 #include "Paths.h"
-#include "Version.h"
+#include "PMPVersion.h"
 
 static void setupCrashDumper()
 {

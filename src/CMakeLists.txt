@@ -38,7 +38,7 @@ add_subdirectory(tools)
 
 get_property(ALL_SRCS GLOBAL PROPERTY SRCS_LIST)
 set(MAIN_SRCS
-  Version.h
+  PMPVersion.h
   ComponentManager.cpp
   ComponentManager.h
   main.cpp

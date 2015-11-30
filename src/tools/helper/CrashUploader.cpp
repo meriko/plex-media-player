@@ -14,7 +14,7 @@
 #include <QSysInfo>
 
 #include "Paths.h"
-#include "Version.h"
+#include "PMPVersion.h"
 #include "utils/Utils.h"
 #include "QsLog.h"
 #include "HelperSettings.h"

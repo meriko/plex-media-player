@@ -6,7 +6,7 @@
 #include <UniqueApplication.h>
 #include "QsLog.h"
 #include "utils/Utils.h"
-#include "Version.h"
+#include "PMPVersion.h"
 #include "HelperSocket.h"
 #include "UniqueApplication.h"
 #include "Names.h"

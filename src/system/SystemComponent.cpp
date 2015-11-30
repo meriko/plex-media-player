@@ -8,7 +8,7 @@
 
 #include "input/InputComponent.h"
 #include "SystemComponent.h"
-#include "Version.h"
+#include "PMPVersion.h"
 #include "QsLog.h"
 #include "settings/SettingsComponent.h"
 #include "ui/KonvergoWindow.h"

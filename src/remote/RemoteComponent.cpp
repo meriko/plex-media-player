@@ -10,7 +10,7 @@
 #include "QsLog.h"
 #include "settings/SettingsComponent.h"
 #include "utils/Utils.h"
-#include "Version.h"
+#include "PMPVersion.h"
 
 static QMap<QString, QString> resourceKeyMap = {
   { "Name", "title" },

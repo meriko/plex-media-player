@@ -4,7 +4,7 @@
 
 #include "InputSocket.h"
 #include "QsLog.h"
-#include "Version.h"
+#include "PMPVersion.h"
 
 #include <QDataStream>
 
