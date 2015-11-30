@@ -1,5 +1,5 @@
-#ifndef VERSION_H
-#define VERSION_H
+#ifndef PMP_VERSION_H
+#define PMP_VERSION_H
 
 namespace Version
 {
@@ -9,5 +9,5 @@ namespace Version
   QString GetWebVersion();
 };
 
-#endif // VERSION_H
+#endif // PMP_VERSION_H
 
